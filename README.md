@@ -45,13 +45,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   <br />
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jazzboy-12&show_icons=true&locale=en&layout=compact" alt="Jatin Motwani" /></p>
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jazzboy-12&show_icons=true&locale=en" alt="Jatin Motwani" /></p>
 </details>
 
