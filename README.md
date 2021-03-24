@@ -1,4 +1,4 @@
- ### 👋 Hi, I’m Jatin Motwani aka Jazzboy-12
+ ### <img src="https://raw.githubusercontent.com/micepram/micepram/master/Hi.gif" width="23px"> Hi, I’m Jatin Motwani aka Jazzboy-12
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jazzboy-12&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 <img align='right' src='https://github.com/Jazzboy-12/Readme-edit/blob/main/github%20readme/youtube-video-gif%20(1).gif' width='560' height="315">
@@ -63,7 +63,7 @@
 Feel free to mail me: **jatinmotwani12@gmail.com**
 You can also contact with me via [LinkedIn][linkedin].
 
-:copyright: ReadMe Designed by Jatin Motwani with the help of [Neeraj Hazarika](https://github.com/NeerajHazarika) and [codeSTACKr](https://github.com/codeSTACKr)
+:copyright: ReadMe Designed by Jatin Motwani with the help of [Neeraj Hazarika](https://github.com/NeerajHazarika), [Likii](https://github.com/Likkiii) and [codeSTACKr](https://github.com/codeSTACKr)
 
 ---
 
