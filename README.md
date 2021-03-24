@@ -1,7 +1,7 @@
  ### <img src="https://raw.githubusercontent.com/micepram/micepram/master/Hi.gif" width="23px"> Hi, I’m Jatin Motwani aka Jazzboy-12
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jazzboy-12&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-<img align='right' src='https://github.com/Jazzboy-12/Readme-edit/blob/main/github%20readme/youtube-video-gif%20(1).gif' width='560' height="315">
+<img align='right' src='https://github.com/Jazzboy-12/Jazzboy-12/blob/main/Images/ngnl.gif' width='560' height="315">
 
 ## About me :
 
