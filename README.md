@@ -20,7 +20,7 @@
 
 [<img align="left" alt="Jatin Motwani | LinkedIn" width="22px" src="https://github.com/Jazzboy-12/Jazzboy-12/blob/main/Images/linkedin.png" />][linkedin]
 [<img align="left" alt="Jatin Motwani | YouTube" width="28px" src="https://github.com/Jazzboy-12/Jazzboy-12/blob/main/Images/youtube.png" />](https://www.youtube.com/channel/UCKXuXUxfHOJUxrhzf_-OD5w)
-[<img align="left" alt="Jatin Motwani | Discord" width="22px" src="httpshttps://github.com/Jazzboy-12/Jazzboy-12/blob/main/Images/discord.png" />](https://discordapp.com/users/770734482625134592/)
+[<img align="left" alt="Jatin Motwani | Discord" width="22px" src="https://github.com/Jazzboy-12/Jazzboy-12/blob/main/Images/discord.png" />](https://discordapp.com/users/770734482625134592/)
 
 <br />
 
