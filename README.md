@@ -63,7 +63,7 @@
 Feel free to mail me: **jatinmotwani12@gmail.com**
 You can also contact with me via [LinkedIn][linkedin].
 
-:copyright: ReadMe Designed by Jatin Motwani with the help of [Neeraj Hazarika](https://github.com/NeerajHazarika), [Likii](https://github.com/Likkiii) and [codeSTACKr](https://github.com/codeSTACKr)
+:copyright: ReadMe Designed by Jatin Motwani with the help of [Neeraj Hazarika](https://github.com/NeerajHazarika), [Likkiii](https://github.com/Likkiii) and [codeSTACKr](https://github.com/codeSTACKr)
 
 ---
 
