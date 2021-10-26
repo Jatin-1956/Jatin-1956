@@ -12,10 +12,6 @@
 -  Pastime involves Web-Series, Movies, Anime and discovering things unknown to me
 
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="Jatin Motwani Spotify Playing" width="350" />](https://open.spotify.com/user/npn02zhsn7pnuw4x7bxcemda)
-
 ### Connect with me:
 
 [<img align="left" alt="Jatin Motwani | LinkedIn" width="22px" src="https://github.com/Jazzboy-12/Jazzboy-12/blob/main/Images/linkedin.png" />][linkedin]
