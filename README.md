@@ -8,7 +8,7 @@
 -  I’m interested in Cyberframing and Artificially Intelligent Security
 -  Learning whatver I can learn (#nolimits)
 -  Currently pursuing B.Tech in I.T at IIEST, Shibpur, West Bengal, India
--  18 y/o, UG 1
+-  19 y/o, UG 2
 -  Pastime involves Web-Series, Movies, Anime and discovering things unknown to me
 
 
