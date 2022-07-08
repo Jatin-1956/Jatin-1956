@@ -8,7 +8,7 @@
 -  I’m interested in Cyber-Security and Artificial Intelligence
 -  Learning whatver I can learn
 -  Currently pursuing Bachelors of Technology in Information Technology at Indian Institute of Engineering, Science and Technology, Shibpur, West Bengal, India
--  20 y/o, UG 2
+-  20 y/o, UG 5
 -  Pastime involves Web-Series, Movies, Anime and discovering things unknown to me
 
 
